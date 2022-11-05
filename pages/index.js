@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welc to my app!" />
+        <Header title="Welcome to the 사장님의 site" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>

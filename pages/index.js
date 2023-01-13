@@ -11,9 +11,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="도현이의 사이트에 오신것을 환영합니다" />
-        <Header title="인스타 - ehgus_3150 , ehgus_0513" />
-        <Header title="배그 - Gyeongsangnam_do" />
+        <body>
+<hl>필리핀 세부 여행</hl>
+
+
+
+
+        </body>
+        
+  
     <p className="description">
         
         </p>
